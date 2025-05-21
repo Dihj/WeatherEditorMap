@@ -1,6 +1,6 @@
-# 🌤️ Weather Map Editor for SRM
+# 🌤️ Weather Map Editor
 
-**Weather Map Editor for SRM** is a standalone GUI-based application to create weather forecast maps with user-defined weather icons, temperature values, and astronomical details like sunrise/sunset and moon phase. It is designed to help forecasters or meteorological services visually prepare and export forecast maps in PNG format for the next three days.
+**Weather Map Editor** is a standalone GUI-based application to create weather forecast maps with user-defined weather icons, temperature values, and astronomical details like sunrise/sunset and moon phase. It is designed to help forecasters or meteorological services visually prepare and export forecast maps in PNG format for the next three days.
 ---
 ## 🧰 Features
 - 🗺️ **Import background map** (PNG, JPEG)
@@ -21,6 +21,6 @@ The final exported PNG includes:
 
 ### 🟦 Windows (with installer)
 
-1. Download the latest `.exe` installer from the [Releases](https://github.com/yourusername/WeatherMapEditor/releases) section.
+1. Download the latest `.exe` installer from the [Releases](https://github.com/Dihj/WeatherMapEditor/releases) section.
 2. Run the installer.
 3. Launch from Start Menu or Desktop shortcut.
