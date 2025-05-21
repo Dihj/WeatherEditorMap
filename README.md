@@ -21,6 +21,6 @@ The final exported PNG includes:
 
 ### 🟦 Windows (with installer)
 
-1. Download the latest `.exe` installer from the [Releases](https://github.com/Dihj/WeatherMapEditor/releases) section.
+1. Download the latest `.exe` installer from the [Releases](https://github.com/Dihj/WeatherEditorMap/releases) section.
 2. Run the installer.
 3. Launch from Start Menu or Desktop shortcut.
